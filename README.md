@@ -34,7 +34,7 @@ BITAmin 빅데이터 인공지능 연합학회
 - **GDG SWU DevRel Core**
 
 ---
-## 🎉 Awards
+## 🎉 This Year Awards
 ### - 위해정보 데이터분석보고서 공모전 대상(1위)
 - [Association Rule Analysis of Consumer Hazard Cases by Item Using Consumer Hazard Information]
 ### - 카이스트 안보융합원 허위정보 대응 아이디어 공모전(최우수상)
