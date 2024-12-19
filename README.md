@@ -24,7 +24,7 @@ Data-Driven Innovation Seoul Women's University
 
 **2024.07-2024.08**
 - **AI학습데이터 구축 업무**
-(주) Metrics
+(주) Metrix
 
 **2023.08~2024.08**
 - **12th Core Member**
