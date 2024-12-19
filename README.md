@@ -30,32 +30,32 @@ Data-Driven Innovation Seoul Women's University
 - **12th Core Member**
 BITAmin 빅데이터 인공지능 연합학회
 
+**2024.09~**
+- **GDG SWU DevRel Core**
 
 ---
 ## 🎉 Awards
-- 위해정보 데이터분석보고서 공모전 대상(1위)
-- 카이스트 안보융합원 허위정보 대응 아이디어 공모전(최우수상)
-  ➡️유튜브 허위정보 확산 경로 분석을 위한 멀티모달 기반 군집화 연구
+### - 위해정보 데이터분석보고서 공모전 대상(1위)
+- [Association Rule Analysis of Consumer Hazard Cases by Item Using Consumer Hazard Information]
+### - 카이스트 안보융합원 허위정보 대응 아이디어 공모전(최우수상)
+- [Multimodal Clustering Study for Analyzing the Spread Pathways of Misinformation on YouTube]
   
 
 ---
 
 ## 🥸 In Progress
 
-### 🏫 [서울여대 데이터혁신실 - 교내 교양과목추천시스템 구축 연구 및 상용화]
+### 🏫 [Seoul Women's University Data Innovation- Research and Commercialization of a University Course Recommendation System]
 
 ---
 ## 🚀 2024 Projects
 
-### 🌐 [LLM을 활용한 무드 기반 데이트코스 추천시스템]
+### 🌐 [LLM-Powered RecSys for  Mood Based Date Course]
 
-### 📊 [유튜브 허위정보 확산 경로 분석을 위한 멀티모달 기반 군집화 연구]
-
-### 🎨 [변수 선택법을 활용한 KOSPI 주가 예측 모델 개발]
-
-### 🏛️ [중소기업 직업능력개발의 잠재요인분석및단기투자효과: 기계학습기반접근]
-
-### 🧳 [소비자 위해정보를 활용한 품목별 위해 사례 연관규칙 분석]
+### 📊 [Multimodal Clustering Study for Analyzing the Spread Pathways of Misinformation on YouTube]
+### 🎨 [Development of a KOSPI Stock Price Prediction Model Using Variable Selection Methods]
+### 🏛️ [Analysis of Latent Factors in SME Vocational Competency Development and Short-Term Investment Effects: A Machine Learning Approach]
+### 🧳 [Association Rule Analysis of Consumer Hazard Cases by Item Using Consumer Hazard Information]
 
 ---
 
