@@ -18,6 +18,9 @@
 
 ## 🧑‍💼 Work
 
+**2025.01~**
+- VCMI LAB, SWU SoftwareConvergence
+
 **2024.04~2025.02**
 - **Student Data Working Group**
 Data-Driven Innovation Seoul Women's University
@@ -29,9 +32,6 @@ Data-Driven Innovation Seoul Women's University
 **2023.08~2024.08**
 - **12th Core Member**
 BITAmin 빅데이터 인공지능 연합학회
-
-**2024.09~**
-- **GDG SWU DevRel Core**
 
 ---
 ## 🎉 This Year Awards
