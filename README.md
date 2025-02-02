@@ -19,7 +19,7 @@
 ## 🧑‍💼 Work
 
 **2025.01~**
-- VCMI LAB, SWU Dept. of SoftwareConvergence
+- VCMI(Visual Computing and Medical Imaging) LAB, SWU Dept. of SoftwareConvergence
 
 **2024.04~2025.02**
 - **Student Data Working Group**
