@@ -1,4 +1,4 @@
-# 👋 Hi, I'm EunBin CHO!
+# 👋 Hi, I'm Eunbin CHO!
 
 🌟 **Passionate in AI & Data Science**  
 📚 Currently major in **Data Science and Software Convergence**  
