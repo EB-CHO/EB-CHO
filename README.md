@@ -2,7 +2,7 @@
 
 🌟 **Passionate in AI & Data Science**  
 📚 Currently major in **Data Science and Software Convergence**  
-💡 I’m interested in **LLM**, **Generative AI** & **Explainable AI**, and **RecSys**.
+💡 I’m interested in **MultiModal**, **Medical Imaging**, **Vision and Language**.
 
 ---
 ## ✍️ Education
