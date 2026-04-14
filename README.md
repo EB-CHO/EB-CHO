@@ -62,7 +62,7 @@ BITAmin 빅데이터 인공지능 연합학회
 
 ## 📫 Let's Connect!
 
-- 💼 [Portfolio](https://www.notion.so/ChoEunBin-98f08154c9f04e87b405ffacc4158507?source=copy_link))  
+- 💼 [Portfolio](https://www.notion.so/ChoEunBin-98f08154c9f04e87b405ffacc4158507?source=copy_link)
 - 📧 [Email](eunbin0690@gmail.com) 
 
 
